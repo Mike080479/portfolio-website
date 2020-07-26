@@ -181,6 +181,9 @@ button:hover,
     fill: #f76414;
   }
 }
+
+svg { width: 100%; }
+
   .skyline {
     -webkit-animation-duration: 4s;
             animation-duration: 4s;
